@@ -42,6 +42,7 @@ body {
 .break .break__length {
   font-size: 50px;
   font-family: 'Major Mono Display', monospace;
+  padding-bottom: 10px;
 }
 .break .break__btns {
   display: flex;
@@ -81,6 +82,7 @@ body {
 .session .session__length {
   font-size: 50px;
   font-family: 'Major Mono Display', monospace;
+  padding-bottom: 10px;
 }
 
 .session .session__btns {
